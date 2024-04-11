@@ -1,0 +1,12 @@
+aiofiles
+cryptography
+PyYAML
+pydantic
+tenacity
+langchain-openai
+langchain
+numpy
+scikit-learn
+jupyter
+datasets
+langchain_mistralai
